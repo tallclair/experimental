@@ -1,0 +1,14 @@
+* TASKS
+** DONE This is a TODO item
+   CLOSED: [2015-03-20 Fri 00:54]
+
+
+* Starting an outline
+
+Here's some body text (I think).
+I'm using the tutorial found [[http://orgmode.org/worg/org-tutorials/orgtutorial_dto.html][here.]]
+
+** This is a sub point
+* Here's another main point
+** Sub section 1
+** Sub section 2
